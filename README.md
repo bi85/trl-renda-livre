@@ -5,7 +5,7 @@ Teorema da Renda Livre — metodologia open source para análise de capacidade d
 
 Metodologia open source para calcular a **Renda Livre Disponível (RLD)** de compradores de produtos imobiliários parcelados — e determinar se uma parcela cabe no orçamento real de quem está assinando o contrato.
 
-Desenvolvida e mantida por **Márcio Santos** ([Trium Mind Advisory](https://mmindtrium.com.br) / [ODDATA](https://oddata.com.br)), com 13 anos de aplicação em operações de multipropriedade, timeshare e incorporação imobiliária no Brasil.
+Desenvolvida e mantida por **Márcio Santos** ([Trium Mind Advisory](https://mindtrium.com.br) / [ODDATA](https://oddata.com.br)), com 13 anos de aplicação em operações de multipropriedade, timeshare e incorporação imobiliária no Brasil.
 
 ---
 
